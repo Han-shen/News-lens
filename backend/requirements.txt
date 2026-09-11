@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+nltk
+pandas
+numpy
+joblib
+motor
+pydantic
+pydantic-settings
+python-dotenv
